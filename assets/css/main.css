@@ -178,11 +178,13 @@ input, select, textarea {
 		text-align: left;
 		margin-top: -2em;
 		font-weight: 700;
+		text-transform: none;
 	}
 
 	h4 {
 		font-size: 0.9em;
 		line-height: 1.5em;
+		text-transform: none;
 		text-align: center;
 	}
 
