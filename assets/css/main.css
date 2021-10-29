@@ -1974,7 +1974,6 @@ input, select, textarea {
 
 		header.major h1, header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
 			position: relative;
-			text-transform: none;
 		}
 
 			header.major h1:after, header.major h2:after, header.major h4:after, header.major h5:after, header.major h6:after {
@@ -2825,7 +2824,6 @@ input, select, textarea {
 		height: 100vh;
 		position: relative;
 		text-align: center;
-		text-transform: none;
 	}
 
 		#header:after {
@@ -2840,7 +2838,6 @@ input, select, textarea {
 			display: inline-block;
 			padding-bottom: 8em;
 			vertical-align: middle;
-			text-transform: none;
 		}
 
 			#header header h1, #header header h2, #header header h3, #header header h4, #header header h5, #header header h6, #header header strong, #header header b {

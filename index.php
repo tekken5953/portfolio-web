@@ -1,11 +1,12 @@
-<HTML>
+<!DOCTYPE HTML>
 
 <html>
 	<head>
 		<title>Portfolio</title>
 		<meta charset="utf-8" />
+	
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" type ="text/css" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
 	<body class="is-preload">
 
@@ -55,7 +56,7 @@
 							</li>
 							<li>
 								<span class="icon brands major fa-android"></span>
-								<h4 text-transform="none";>Android - Kotlin</br>(JetPack Compose 학습 중2021/10/29)</h4>
+								<h4>Android - Kotlin</br>(JetPack Compose 학습 중2021/10/29)</h4>
 							</li>
 							<li>
 								<span class="icon solid major fa-database"></span>
@@ -287,13 +288,13 @@
 			</section>
 
 		<!-- Scripts -->
-			<script type="text/javascript" src="assets/js/jquery.min.js"></script>
-			<script type="text/javascript" src="assets/js/jquery.scrollex.min.js"></script>
-			<script type="text/javascript" src="assets/js/jquery.scrolly.min.js"></script>
-			<script type="text/javascript" src="assets/js/browser.min.js"></script>
-			<script type="text/javascript" src="assets/js/breakpoints.min.js"></script>
-			<script type="text/javascript" src="assets/js/util.js"></script>
-			<script type="text/javascript" src="assets/js/main.js"></script>
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
 
 	</body>
 </html>
