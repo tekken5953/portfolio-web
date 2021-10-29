@@ -95,6 +95,10 @@
 								<h4>디자인 협업 - Zeplin</h4>
 							</li>
 							<li>
+								<span class="icon solid major fa-slack"></span>
+								<h4>협업 메신저 툴 - Slack</h4>
+							</li>
+							<li>
 								<span class="icon solid major fa-city"></span>
 								<h4>CI/CD - Heroku</h4>
 							</li>
