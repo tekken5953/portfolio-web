@@ -155,11 +155,11 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #61686b;
-		font-weight: 800;
+		font-weight: 900;
 		letter-spacing: 0.075em;
 		line-height: 1em;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
+		text-transform: none;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -173,13 +173,17 @@ input, select, textarea {
 	}
 
 	h3 {
-		font-size: 1em;
+		font-size: 0.8em;
 		line-height: 1.5em;
+		text-align: left;
+		margin-top: -2em;
+		font-weight: 700;
 	}
 
 	h4 {
 		font-size: 0.9em;
 		line-height: 1.5em;
+		text-align: center;
 	}
 
 	h5 {
@@ -1931,7 +1935,6 @@ input, select, textarea {
 	header p {
 		color: #000000;
 		letter-spacing: 0.05em;
-		text-transform: uppercase;
 		font-family: 'Font Awesome 5 Free';
 		text-transform: none;
 	}
@@ -1945,10 +1948,18 @@ input, select, textarea {
 	}
 
 	header h3 + p {
-		margin-top: -0.8em;
+		text-align: left;
+		margin-top: 3em;
+		position: relative;
+		text-transform: none;
 	}
 
-	header h4 + p,
+	header h4 + p {
+		text-align: left;
+		text-transform: none;
+		margin-top: 3em;
+	}
+
 	header h5 + p,
 	header h6 + p {
 		font-size: 0.8em;
