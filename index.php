@@ -52,11 +52,11 @@
 						<ul class="icons-grid">
 							<li>
 								<span class="icon brands major fa-java"></span>
-								<h4>Android - Java</h4>
+								<h4>Android - Java</br>(Rx Java 학습 중<br/>2021/10/29)</h4>
 							</li>
 							<li>
 								<span class="icon brands major fa-android"></span>
-								<h4>Android - Kotlin</br>(JetPack Compose 학습 중2021/10/29)</h4>
+								<h4>Android - Kotlin</br>(JetPack Compose 학습 중<br/>2021/10/29)</h4>
 							</li>
 							<li>
 								<span class="icon solid major fa-database"></span>

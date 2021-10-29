@@ -183,7 +183,7 @@ input, select, textarea {
 	}
 
 	h4 {
-		font-size: 0.9em;
+		font-size: 1.1em;
 		line-height: 1.5em;
 		text-transform: none;
 		text-align: center;
@@ -1940,7 +1940,6 @@ input, select, textarea {
 		color: #000000;
 		letter-spacing: 0.05em;
 		font-family: 'Font Awesome 5 Free';
-		text-transform: none;
 	}
 
 	header h1 + p {
@@ -1972,6 +1971,7 @@ input, select, textarea {
 
 	header.major {
 		text-align: center;
+		text-transform: none;
 	}
 
 		header.major h1, header.major h2, header.major h3, header.major h4, header.major h5, header.major h6 {
