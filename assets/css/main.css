@@ -1859,6 +1859,7 @@ input, select, textarea {
 			text-transform: none !important;
 			font-family: 'Font Awesome 5 Free';
 			font-weight: 900;
+			text-transform: none;
 		}
 
 		html body:before {
@@ -1952,15 +1953,15 @@ input, select, textarea {
 
 	header h3 + p {
 		text-align: left;
-		margin-top: 3em;
+		margin-top: 1em;
 		position: relative;
 		text-transform: none;
 	}
 
 	header h4 + p {
-		text-align: left;
+		text-align: center;
 		text-transform: none;
-		margin-top: 3em;
+		margin-top: 1em;
 	}
 
 	header h5 + p,
@@ -1985,6 +1986,7 @@ input, select, textarea {
 				margin: 0.75em auto 0 auto;
 				position: relative;
 				width: 4em;
+				text-transform: none;
 			}
 			
 			header.major header.major h3:after {
@@ -1995,6 +1997,7 @@ input, select, textarea {
 				margin: 0.75em auto 0 auto;
 				position: relative;
 				width: 2em;
+				text-transform: none;
 				font-family: Georgia, 'Times New Roman', Times, serif;
 			}
 
