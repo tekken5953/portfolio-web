@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<HTML>
 
 <html>
 	<head>
@@ -55,7 +55,7 @@
 							</li>
 							<li>
 								<span class="icon brands major fa-android"></span>
-								<h4>Android - Kotlin</br>(JetPack Compose 학습 중2021/10/29)</h4>
+								<h4 text-transform: none;>Android - Kotlin</br>(JetPack Compose 학습 중2021/10/29)</h4>
 							</li>
 							<li>
 								<span class="icon solid major fa-database"></span>
