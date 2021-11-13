@@ -224,7 +224,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.(진행중인 프로젝트)</h2>
-							<span class="image left"><img src="images/famers.png" alt=""/></span>
+							<span class="image left"><img src="images/snsapp.jpg" alt=""/></span>
 							<p> 간단한 포스팅과 채팅 기능이 있는 SNS App</br></br>
 								AWS EC2, Spring Boot를 이용한 서버환경 구현</br></br>
 								Firebase Storage와 Glide로 이미지 데이터 저장 및 불러오기</br></br>
