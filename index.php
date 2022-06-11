@@ -4,7 +4,6 @@
 	<head>
 		<title>Portfolio</title>
 		<meta charset="utf-8" />
-	
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 	</head>
@@ -34,7 +33,9 @@
 						<p></br></br></br>🖐궁금한 것이 많아 구글링 없이는 살 수 없는 사람.</br></br>
 						👀컴퓨터 앞에 앉아 뜬 눈으로 지새는 밤이 많은 사람.</br></br>
 						🔥이과에 컴공이지만 UX/UI디자인 욕심이 불타는 사람.</br></br>
-						👫풀스택 개발자의 길을 포기 할 수 없는 사람.</p>
+						👫커피와 운동이 관심이 많은 사람.</p></br></br>
+						<h2>Email : </h2><p><a href="mailto:tekken5953@naver.com">tekken5953@naver.com</a></p></br>
+						<h2>Git : </h2><p><a href="https://github.com/tekken5953/">https://github.com/tekken5953</a></p></br>
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
@@ -48,15 +49,14 @@
 						<header class="major">
 							<h2>제가 가진 개발기술은 이렇습니다.</h2>
 						</header>
-						<p>감각적인 풀스택 개발을 희망하는 주니어 개발자.</br></p>
 						<ul class="icons-grid">
 							<li>
 								<span class="icon brands major fa-java"></span>
-								<h4>Android - Java</br>(Rx Java 학습 중<br/>2021/10/29)</h4>
+								<h4>Android - Java</h4>
 							</li>
 							<li>
 								<span class="icon brands major fa-android"></span>
-								<h4>Android - Kotlin</br>(JetPack Compose 학습 중<br/>2021/10/29)</h4>
+								<h4>Android - Kotlin</br>(학습 중)</h4>
 							</li>
 							<li>
 								<span class="icon solid major fa-database"></span>
@@ -93,14 +93,6 @@
 							<li>
 								<span class="icon solid major fa-pencil-alt"></span>
 								<h4>디자인 협업 - Zeplin</h4>
-							</li>
-							<li>
-								<span class="icon solid major fa-comment-dots"></span>
-								<h4>협업 메신저 툴 - Slack</h4>
-							</li>
-							<li>
-								<span class="icon solid major fa-city"></span>
-								<h4>CI/CD - Heroku</h4>
 							</li>
 						</ul>
 					</div>
@@ -144,7 +136,7 @@
 								캘린더 기능과 메모장 구현</br></br>
 								Notification Manager사용</p>
 							
-							<h3>Skills : Firebase Notification, WebView, KaKao Map, Notification Manager, SQLite</h3>
+							<h3>Skills : </h3>
 						</header>
 					</div>
 					<a href="#four-three" class="goto-next scrolly">Next</a>
@@ -164,7 +156,7 @@
 								인원수 별 색상배치 및 회전량 조절</br></br>
 								룰렛 결과를 내부DB에 저장하여 기록</p>
 							
-							<h3>Skills : PieChart, SQLite Database, Random Serializable</h3>
+							<h3>Skills : </h3>
 						</header>
 					</div>
 					<a href="#four-four" class="goto-next scrolly">Next</a>
@@ -187,8 +179,7 @@
 								Custom Seekbar와 Progressbar의 비동기작업</br></br>
 								File System을 활용한 음악 저장 및 출력</p>
 
-							<h3>Skills : Background Service, MediaPlayer, swiperefreshlayout, Firebase Database<br/>
-										Time Picker, Calendar View</h3>
+							<h3>Skills : </h3>
 						</header>
 					</div>
 					<a href="#four-five" class="goto-next scrolly">Next</a>
@@ -209,8 +200,7 @@
 								액세스 토큰 형식의 로그인 서비스 구현</br></br>
 								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
 						</p>
-						<h3>Skills : PieCharm, Retrofit2, OkHttp, SharedPreference, Java, AWS EC2 <br/>
-								ExpandableListView </h3>
+						<h3>Skills : </h3>
 						</header>
 					</div>
 					<a href="#four-six" class="goto-next scrolly">Next</a>
@@ -220,17 +210,19 @@
 			<!-- Four-six -->
 			<section id="four-six" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/snsapp.jpg" alt="" /></span>
+					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
-							<h2>제가 경험한 프로젝트를 소개합니다.(진행중인 프로젝트)</h2>
-							<span class="image left"><img src="images/snsapp.jpg" alt=""/></span>
-							<p> 간단한 포스팅과 채팅 기능이 있는 SNS App</br></br>
-								AWS EC2, Spring Boot를 이용한 서버환경 구현</br></br>
-								Firebase Storage와 Glide로 이미지 데이터 저장 및 불러오기</br></br>
+							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+							<span class="image left"><img src="images/famers.png" alt=""/></span>
+							<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
+								PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
+								Retrofit2를 이용한 클라이언트 구현</br></br>
+								액세스 토큰 형식의 로그인 서비스 구현</br></br>
+								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
 						</p>
 						<h3>Skills : SprinBoot, ViewBinding, Retrofit, Glide, TedPermission,<br/>
-							AWS EC2, Firebase Storage, JetPack Library, OKHTTP, SharedPreference</h3>
+							AWS EC2, Firebase Storage, JetPack Library,OKHTTP, SharedPreference</h3>
 						</header>
 					</div>
 					<a href="#four-seven" class="goto-next scrolly">Next</a>
@@ -240,19 +232,19 @@
 			<!-- Four-seven -->
 			<section id="four-seven" class="main special">
 				<div class="container">
-					<!-- <span class="image fit primary"><img src="images/project2.jpg" alt="" /></span> -->
+					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
 					<div class="content">
 						<header class="major">
-							<h2>제가 경험한 프로젝트를 소개합니다.(진행중인 프로젝트)</h2>
-							<!-- <span class="image left"><img src="images/famers.png" alt=""/></span> -->
-							<p> 물품주문 및 검색, 인앱결제 기능을 포함한 쇼핑몰 App</br></br>
-								Kotlin 언어로 구현</br></br>
-								Live Data, DataBinding을 이용한 MVVM 패턴</br></br>
-								네트워크 통신 및 테스트코드 작성을 위한 DI로 Koin 사용</br></br>
-								Room Database Library를 이용한 물품 데이터 저장</br></br>
+							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+							<span class="image left"><img src="images/famers.png" alt=""/></span>
+							<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
+								PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
+								Retrofit2를 이용한 클라이언트 구현</br></br>
+								액세스 토큰 형식의 로그인 서비스 구현</br></br>
+								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
 						</p>
 						<h3>Skills : Kotlin, Room, Koin, Spring Boot, MVVM Patern, DataBinding, Singleton(NetWork)
-							Coroutain, AWS EC2, Glide, TedPermission, JetPack, OKHTTP, Retrofit, Notification Manager, JUnit</h3>
+							Coroutain, AWS EC2, Glide, TedPermission, JetPack, OKHTTP, Retrofit, Notification Manager</h3>
 						</header>
 					</div>
 					<a href="#footer" class="goto-next scrolly">Next</a>
