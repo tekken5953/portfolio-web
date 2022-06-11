@@ -30,12 +30,13 @@
 						<header class="major">
 							<h2>저는 이런 사람입니다.</h2>
 						</header>
-						<p></br></br></br>🖐궁금한 것이 많아 구글링 없이는 살 수 없는 사람.</br></br>
-						👀컴퓨터 앞에 앉아 뜬 눈으로 지새는 밤이 많은 사람.</br></br>
-						🔥이과에 컴공이지만 UX/UI디자인 욕심이 불타는 사람.</br></br>
-						👫커피와 운동이 관심이 많은 사람.</p></br></br>
-						<h2>Email : </h2><p><a href="mailto:tekken5953@naver.com">tekken5953@naver.com</a></p></br>
-						<h2>Git : </h2><p><a href="https://github.com/tekken5953/">https://github.com/tekken5953</a></p></br>
+						<p></br></br></br>🖐궁금한 것이 많아 구글링 없이는 살 수 없는 사람</br></br>
+						👀컴퓨터 앞에 앉아 뜬 눈으로 지새는 밤이 많은 사람</br></br>
+						🔥이과에 컴공이지만 UX/UI디자인 욕심이 불타는 사람</br></br>
+						👫커피와 운동에 관심이 많은 사람</p></br></br>
+						<h2>H.P : 010-4180-5953</h2></br>
+						<h2>Email : <p><a href="mailto:tekken5953@naver.com">tekken5953@naver.com</a></p></h2></br>
+						<h2>Git : <p><a href="https://github.com/tekken5953/">https://github.com/tekken5953</a></p></h2></br>
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
@@ -107,14 +108,15 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/newsto.png" alt=""/></span>
-							<p> 보고싶은 언론사 및 방송사를 선택구독 할 수 있는 App</br></br>
-								WebView를 사용 한 Hybrid App</br></br>
-								WebView를 커스텀하여 WebView 내 페이지 이동 및 상태 변경 구현</br></br>
-								SQLite를 이용해 데이터 저장 및 불러오기 기능</br></br>
-								즐겨찾기 기능 구현</p>
+							<span class="image left"><img src="images/healthmanager2.png" alt=""/></span>
+							<p> 약의 알람을 등록하여 복용정보를 받아보는 App</br></br>
+								KaKao Map API 사용</br></br>
+								Firebase Realtime Database 및 token을 통한 Push Service</br></br>
+								캘린더 기능과 메모장 구현</br></br>
+								Notification Manager사용</p>
 
-							<h3>Skills : SQLite, WebView</h3>
+							<h3><a href="https://github.com/tekken5953/Andoird_HealthManager#readme"
+							target='_blank'>📌핵심 코드 설명📌</h3>
 							
 						</header>
 					</div>
@@ -129,14 +131,15 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/healthmanager2.png" alt=""/></span>
-							<p> 약의 알람을 등록하여 복용정보를 받아보는 App</br></br>
-								KaKao Map API 사용</br></br>
-								Firebase Realtime Database 및 token을 통한 Push Service</br></br>
-								캘린더 기능과 메모장 구현</br></br>
-								Notification Manager사용</p>
+							<span class="image left"><img src="images/newsto.png" alt=""/></span>
+							<p> 보고싶은 언론사 및 방송사를 선택구독 할 수 있는 App</br></br>
+								WebView를 사용 한 Hybrid App</br></br>
+								WebView를 커스텀하여 WebView 내 페이지 이동 및 상태 변경 구현</br></br>
+								SQLite를 이용해 데이터 저장 및 불러오기 기능</br></br>
+								즐겨찾기 기능 구현</p>
 							
-							<h3>Skills : </h3>
+							<h3><a href="https://github.com/tekken5953/Android_Newsto#readme"
+							target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
 					<a href="#four-three" class="goto-next scrolly">Next</a>
@@ -156,7 +159,8 @@
 								인원수 별 색상배치 및 회전량 조절</br></br>
 								룰렛 결과를 내부DB에 저장하여 기록</p>
 							
-							<h3>Skills : </h3>
+							<h3><a href="https://github.com/tekken5953/Android_LunchBetting#readme"
+							target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
 					<a href="#four-four" class="goto-next scrolly">Next</a>
@@ -172,14 +176,15 @@
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
 							<span class="image left"><img src="images/poguen.png" alt=""/></span>
 							<p> 음악 플레이어 App</br></br>
-								Spring Boot를 이용한 Login Service</br></br>
+								Firebase RealtimeDatabase를 이용한 Login Service</br></br>
 								Background Play Service</br></br>
 								AsyncTask Handler</br></br>
 								MediaPlayer 함수를 이용해 뮤직플레이어 구현</br></br>
 								Custom Seekbar와 Progressbar의 비동기작업</br></br>
 								File System을 활용한 음악 저장 및 출력</p>
 
-							<h3>Skills : </h3>
+							<h3><a href="https://github.com/tekken5953/Android_PoGeun/tree/master#readme"
+							target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
 					<a href="#four-five" class="goto-next scrolly">Next</a>
@@ -200,54 +205,11 @@
 								액세스 토큰 형식의 로그인 서비스 구현</br></br>
 								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
 						</p>
-						<h3>Skills : </h3>
+						<h3><a href="https://github.com/tekken5953/Android_MarketAndroid/tree/master#readme"
+						target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
 					<a href="#four-six" class="goto-next scrolly">Next</a>
-				</div>
-			</section>
-
-			<!-- Four-six -->
-			<section id="four-six" class="main special">
-				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
-					<div class="content">
-						<header class="major">
-							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/famers.png" alt=""/></span>
-							<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
-								PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
-								Retrofit2를 이용한 클라이언트 구현</br></br>
-								액세스 토큰 형식의 로그인 서비스 구현</br></br>
-								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
-						</p>
-						<h3>Skills : SprinBoot, ViewBinding, Retrofit, Glide, TedPermission,<br/>
-							AWS EC2, Firebase Storage, JetPack Library,OKHTTP, SharedPreference</h3>
-						</header>
-					</div>
-					<a href="#four-seven" class="goto-next scrolly">Next</a>
-				</div>
-			</section>
-
-			<!-- Four-seven -->
-			<section id="four-seven" class="main special">
-				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
-					<div class="content">
-						<header class="major">
-							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/famers.png" alt=""/></span>
-							<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
-								PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
-								Retrofit2를 이용한 클라이언트 구현</br></br>
-								액세스 토큰 형식의 로그인 서비스 구현</br></br>
-								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
-						</p>
-						<h3>Skills : Kotlin, Room, Koin, Spring Boot, MVVM Patern, DataBinding, Singleton(NetWork)
-							Coroutain, AWS EC2, Glide, TedPermission, JetPack, OKHTTP, Retrofit, Notification Manager</h3>
-						</header>
-					</div>
-					<a href="#footer" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
 
@@ -272,13 +234,14 @@
 				</div>
 				<footer>
 					<ul class="icons">
-						<li><a href="https://github.com/tekken5953/" class="icon brands alt fa-github-square"><span class="label">Github</span></a></li>
+						<li><a href="https://github.com/tekken5953/"  target='_blank' class="icon brands alt fa-github-square"><span class="label">Github</span></a></li>
 						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
 						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
-						<li><a href="mailto:tekken5953@naver.com" class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
+						<li><a href="mailto:tekken5953@naver.com" target='_blank' class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
 					<ul class="copyright">
-						<li>&copy; Lee Jae Young</li><li>Design: HTML5 & JavaScript & CSS3</a></li><li>Icons: <a href="https://fontawesome.com/icons?d=gallery&p=2">FontAwesome</a></li>
+						<li>&copy; Lee Jae Young</li><li>Design: HTML5 & JavaScript & CSS3</a></li><li>Icons:
+							 <a href="https://fontawesome.com/icons?d=gallery&p=2" target='_blank'>FontAwesome</a></li>
 					</ul>
 				</footer>
 			</section>
