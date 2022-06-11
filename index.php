@@ -34,9 +34,9 @@
 						👀컴퓨터 앞에 앉아 뜬 눈으로 지새는 밤이 많은 사람</br></br>
 						🔥이과에 컴공이지만 UX/UI디자인 욕심이 불타는 사람</br></br>
 						👫커피와 운동에 관심이 많은 사람</p></br></br>
-						<h2>H.P : 010-4180-5953</h2></br>
-						<h2>Email : <p><a href="mailto:tekken5953@naver.com">tekken5953@naver.com</a></p></h2></br>
-						<h2>Git : <p><a href="https://github.com/tekken5953/">https://github.com/tekken5953</a></p></h2></br>
+						<h4>H.P : 010-4180-5953</h4></br>
+						<h4>Email : <p><a href="mailto:tekken5953@naver.com">tekken5953@naver.com</a></p></h4></br>
+						<h4>Git : <p><a href="https://github.com/tekken5953/">https://github.com/tekken5953</a></p></h4></br>
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
@@ -115,7 +115,7 @@
 								캘린더 기능과 메모장 구현</br></br>
 								Notification Manager사용</p>
 
-							<h3><a href="https://github.com/tekken5953/Andoird_HealthManager#readme"
+							</br></br><h3><a href="https://github.com/tekken5953/Andoird_HealthManager#readme"
 							target='_blank'>📌핵심 코드 설명📌</h3>
 							
 						</header>
@@ -138,7 +138,7 @@
 								SQLite를 이용해 데이터 저장 및 불러오기 기능</br></br>
 								즐겨찾기 기능 구현</p>
 							
-							<h3><a href="https://github.com/tekken5953/Android_Newsto#readme"
+							</br></br><h3><a href="https://github.com/tekken5953/Android_Newsto#readme"
 							target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
@@ -159,7 +159,7 @@
 								인원수 별 색상배치 및 회전량 조절</br></br>
 								룰렛 결과를 내부DB에 저장하여 기록</p>
 							
-							<h3><a href="https://github.com/tekken5953/Android_LunchBetting#readme"
+							</br></br><h3><a href="https://github.com/tekken5953/Android_LunchBetting#readme"
 							target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
@@ -183,7 +183,7 @@
 								Custom Seekbar와 Progressbar의 비동기작업</br></br>
 								File System을 활용한 음악 저장 및 출력</p>
 
-							<h3><a href="https://github.com/tekken5953/Android_PoGeun/tree/master#readme"
+							</br></br><h3><a href="https://github.com/tekken5953/Android_PoGeun/tree/master#readme"
 							target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
@@ -205,11 +205,11 @@
 								액세스 토큰 형식의 로그인 서비스 구현</br></br>
 								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
 						</p>
-						<h3><a href="https://github.com/tekken5953/Android_MarketAndroid/tree/master#readme"
+						</br></br><h3><a href="https://github.com/tekken5953/Android_MarketAndroid/tree/master#readme"
 						target='_blank'>📌핵심 코드 설명📌</h3>
 						</header>
 					</div>
-					<a href="#four-six" class="goto-next scrolly">Next</a>
+					<a href="#footer" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
 
