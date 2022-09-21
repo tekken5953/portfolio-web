@@ -97,11 +97,34 @@
 							</li>
 						</ul>
 					</div>
+					<a href="#four-zero" class="goto-next scrolly">Next</a>
+				</div>
+			</section>
+
+			<!-- Four-zero -->
+		<section id="four-zero" class="main special">
+				<div class="container">
+					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+					<div class="content">
+						<header class="major">
+							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+							<span class="image left"><img src="images/dashboard.png" alt=""/></span>
+							<p> 공기살균기와 연동하여 데이터를 보여주는 App</br></br>
+								ESP32 CPU를 사용한 보드와 블루투스 연결</br></br>
+								자체제작 API와 스레드 통신 후 센서 값 불러오기</br></br>
+								펌웨어에 등록 된 세그먼트를 번들형태로 받아 와 팬제어 및 전원제어</br></br>
+								뷰모델과 라이브데이터로 센서 값 데이터들을 관리 및 갱신</p>
+
+							<h1><a href="https://github.com/tekken5953/BsDashboard#readme"
+							target='_blank'>📌핵심코드 설명📌</h1>
+							
+						</header>
+					</div>
 					<a href="#four-one" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
 
-		<!-- Four-one -->
+			<!-- Four-one -->
 		<section id="four-one" class="main special">
 				<div class="container">
 					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
