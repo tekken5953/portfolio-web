@@ -108,7 +108,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/dashboard.png" alt=""/></span>
+							<span class="image left"><img src="images/dashboard2.png" alt=""/></span>
 							<p> 공기살균기와 연동하여 데이터를 보여주는 App</br></br>
 								ESP32 CPU를 사용한 보드와 블루투스 연결</br></br>
 								자체제작 API와 스레드 통신 후 센서 값 불러오기</br></br>
@@ -131,7 +131,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/healthmanager2.png" alt=""/></span>
+							<span class="image left"><img src="images/healthmanager2.jpg" alt=""/></span>
 							<p> 약의 알람을 등록하여 복용정보를 받아보는 App</br></br>
 								KaKao Map API 사용</br></br>
 								Firebase Realtime Database 및 token을 통한 Push Service</br></br>
@@ -154,7 +154,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/newsto.png" alt=""/></span>
+							<span class="image left"><img src="images/newsto2.jpg" alt=""/></span>
 							<p> 보고싶은 언론사 및 방송사를 선택구독 할 수 있는 App</br></br>
 								WebView를 사용 한 Hybrid App</br></br>
 								WebView를 커스텀하여 WebView 내 페이지 이동 및 상태 변경 구현</br></br>
@@ -176,7 +176,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/lunchbetting.png" alt=""/></span>
+							<span class="image left"><img src="images/lunchbetting2.jpg" alt=""/></span>
 							<p> 랜덤함수를 이용한 룰렛 게임 App</br></br>
 								PieChart의 랜덤함수를 사용하여 룰렛 구성</br></br>
 								인원수 별 색상배치 및 회전량 조절</br></br>
@@ -197,7 +197,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/poguen.png" alt=""/></span>
+							<span class="image left"><img src="images/poguen2.jpg" alt=""/></span>
 							<p> 음악 플레이어 App</br></br>
 								Firebase RealtimeDatabase를 이용한 Login Service</br></br>
 								Background Play Service</br></br>
@@ -220,7 +220,7 @@
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/famers.png" alt=""/></span>
+							<span class="image left"><img src="images/farmers2.jpg" alt=""/></span>
 							<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
 								PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
 								Retrofit2를 이용한 클라이언트 구현</br></br>
@@ -231,9 +231,30 @@
 						target='_blank'>📌핵심코드 설명📌</h1>
 						</header>
 					</div>
-					<a href="#footer" class="goto-next scrolly">Next</a>
+					<a href="#six" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
+
+						<!-- Four-six -->
+						<section id="four-six" class="main special">
+							<div class="container">
+								<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+								<div class="content">
+									<header class="major">
+										<h2>제가 진행중인 프로젝트를 소개합니다.</h2>
+										<span class="image left"><img src="images/snsapp2.jpg" alt=""/></span>
+										<p> 기본적인 로그인 서비스와 포스팅을 할 수 있는 App</br></br>
+											Glide로 이미지 캐시를 불러와 적용</br></br>
+											현재 위치정보 기반 태그 기능</br></br>
+											팔로우 및 좋아요, 댓글 기능</br></br>
+									</p>
+									<h1><a href="https://github.com/tekken5953/SNS-Android/tree/master#readme"
+									target='_blank'>📌핵심코드 설명📌</h1>
+									</header>
+								</div>
+								<a href="#footer" class="goto-next scrolly">Next</a>
+							</div>
+						</section>
 
 		<!-- Footer -->
 			<section id="footer">
