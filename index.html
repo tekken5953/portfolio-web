@@ -35,8 +35,8 @@
 						🔥이과에 컴공이지만 UX/UI디자인 욕심이 불타는 사람</br></br>
 						👫커피와 운동에 관심이 많은 사람</p></br>
 						<p>H.P : 010-4180-5953<p>
-						<p>Email : <a href="mailto:tekken5953@naver.com" target='_blank'>tekken5953@naver.com</a></p>
 						<p>Git : <a href="https://github.com/tekken5953/" target='_blank'>https://github.com/tekken5953</a></p>
+						<p>Blog(tistory) : <a href="https://tekken5953.tistory.com/" target='_blank'>https://tekken5953.tistory.com/</a></p>
 					</div>
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
@@ -278,7 +278,7 @@
 				<footer>
 					<ul class="icons">
 						<li><a href="https://github.com/tekken5953/"  target='_blank' class="icon brands alt fa-github-square"><span class="label">Github</span></a></li>
-						<li><a href="#" class="icon brands alt fa-facebook-f"><span class="label">Facebook</span></a></li>
+						<li><a href="https://tekken5953.tistory.com/" target='_blank' class="icon brands alt fa-blogger"><span class="label">Blog</span></a></li>
 						<li><a href="#" class="icon brands alt fa-instagram"><span class="label">Instagram</span></a></li>
 						<li><a href="mailto:tekken5953@naver.com" target='_blank' class="icon solid alt fa-envelope"><span class="label">Email</span></a></li>
 					</ul>
