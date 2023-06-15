@@ -15,7 +15,7 @@
 					<h1>PortFolio</h1>
 					<p></br>질문하는 개발자 이재영의 포트폴리오</br></p>
 				</header>
-				<div class="container">
+				<div id="start" class="container">
 					<ul class="actions special">
 						<li><a href="#one" class="button primary scrolly">시 작</a></li>
 					</ul>
@@ -38,14 +38,13 @@
 						<p>Git : <a href="https://github.com/tekken5953/" target='_blank'>https://github.com/tekken5953</a></p>
 						<p>Blog(tistory) : <a href="https://tekken5953.tistory.com/" target='_blank'>https://tekken5953.tistory.com/</a></p>
 					</div>
-					<a href="#two" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
 
 		<!-- Two -->
 			<section id="two" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/coding.jpg" alt="" /></span>
+					<span class="image fit primary"></span>
 					<div class="content">
 						<header class="major">
 							<h2>제가 가진 개발기술은 이렇습니다.</h2>
@@ -57,7 +56,7 @@
 							</li>
 							<li>
 								<span class="icon brands major fa-android"></span>
-								<h4>Android - Kotlin</br>(학습 중)</h4>
+								<h4>Android - Kotlin</h4>
 							</li>
 							<li>
 								<span class="icon solid major fa-database"></span>
@@ -65,18 +64,17 @@
 							</li>
 							<li>
 								<span class="icon solid major fa-code"></span>
-								<h4>Web FrontEnd</br>(간단한 게시판 작성)</h4>
+								<h4>Arduino</br>(BT F/W 프로그램)</h4>
 							</li>
 						</ul>
 					</div>
-					<a href="#three" class="goto-next scrolly">Next</a>
 				</div>
 			</section>
 
 			<!-- Three -->
 			<section id="three" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/coding.jpg" alt="" /></span>
+					<span class="image fit primary"></span>
 					<div class="content">
 						<header class="major">
 							<h2>제가 가진 협업기술은 이렇습니다.</h2>
@@ -92,10 +90,29 @@
 								<h4>디자인 협업 - Adobe Xd</h4>
 							</li>
 							<li>
-								<span class="icon solid major fa-pencil-alt"></span>
-								<h4>디자인 협업 - Zeplin</h4>
+								<span class="icon brands major fa-figma"></span>
+								<h4>디자인 협업 - Figma</h4>
 							</li>
 						</ul>
+					</div>
+				</div>
+			</section>
+
+			<section id="four-1" class="main special">
+				<div class="container">
+					<span class="image fit primary"></span>
+					<div class="content">
+						<header class="major">
+							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+							<span class="image left"><img src="images/as_weather.png" alt=""/></span>
+							<p> 공공데이터를 활용하여 날씨 정보를 보여주는 App</br></br>
+								AirKorea & 기상청의 데이터를 활용</br></br>
+								현재 GPS의 위치를 기반으로 주소 및 데이터 호출</br></br>
+								구글 플레이에 배포하여 서비스 운영</br></br>
+								구글 AdMob을 통한 광고 관리</p>
+							<h1><a href="https://github.com/tekken5953/AS_Cloud_App#readme"
+							target='_blank'>📌핵심코드 설명📌</h1>
+						</header>
 					</div>
 					<a href="#four-zero" class="goto-next scrolly">Next</a>
 				</div>
@@ -104,11 +121,11 @@
 			<!-- Four-zero -->
 		<section id="four-zero" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+					<span class="image fit primary"></span>
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/dashboard2.png" alt=""/></span>
+							<span class="image left"><img src="images/dashboard.png" alt=""/></span>
 							<p> 공기살균기와 연동하여 데이터를 보여주는 App</br></br>
 								ESP32 CPU를 사용한 보드와 블루투스 연결</br></br>
 								자체제작 API와 스레드 통신 후 센서 값 불러오기</br></br>
@@ -117,7 +134,6 @@
 
 							<h1><a href="https://github.com/tekken5953/BsDashboard#readme"
 							target='_blank'>📌핵심코드 설명📌</h1>
-							
 						</header>
 					</div>
 					<a href="#four-one" class="goto-next scrolly">Next</a>
@@ -127,11 +143,11 @@
 			<!-- Four-one -->
 		<section id="four-one" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+					<span class="image fit primary"></span>
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/healthmanager2.jpg" alt=""/></span>
+							<span class="image left"><img src="images/healthmanager.png" alt=""/></span>
 							<p> 약의 알람을 등록하여 복용정보를 받아보는 App</br></br>
 								KaKao Map API 사용</br></br>
 								Firebase Realtime Database 및 token을 통한 Push Service</br></br>
@@ -140,7 +156,6 @@
 
 							<h1><a href="https://github.com/tekken5953/Andoird_HealthManager#readme"
 							target='_blank'>📌핵심코드 설명📌</h1>
-							
 						</header>
 					</div>
 					<a href="#four-two" class="goto-next scrolly">Next</a>
@@ -150,11 +165,11 @@
 			<!-- Four-two -->
 			<section id="four-two" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+					<span class="image fit primary"></span>
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/newsto2.jpg" alt=""/></span>
+							<span class="image left"><img src="images/newsto.png" alt=""/></span>
 							<p> 보고싶은 언론사 및 방송사를 선택구독 할 수 있는 App</br></br>
 								WebView를 사용 한 Hybrid App</br></br>
 								WebView를 커스텀하여 WebView 내 페이지 이동 및 상태 변경 구현</br></br>
@@ -172,11 +187,11 @@
 			<!-- Four-three -->
 			<section id="four-three" class="main special">
 				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+					<span class="image fit primary"></span>
 					<div class="content">
 						<header class="major">
 							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/lunchbetting2.jpg" alt=""/></span>
+							<span class="image left"><img src="images/lunchbetting.png" alt=""/></span>
 							<p> 랜덤함수를 이용한 룰렛 게임 App</br></br>
 								PieChart의 랜덤함수를 사용하여 룰렛 구성</br></br>
 								인원수 별 색상배치 및 회전량 조절</br></br>
@@ -190,60 +205,61 @@
 				</div>
 			</section>
 
-			<!-- Four-four -->
-			<section id="four-four" class="main special">
-				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
-					<div class="content">
-						<header class="major">
-							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/poguen2.jpg" alt=""/></span>
-							<p> 음악 플레이어 App</br></br>
-								Firebase RealtimeDatabase를 이용한 Login Service</br></br>
-								Background Play Service</br></br>
-								MediaPlayer 함수를 이용해 뮤직플레이어 구현</br></br>
-								Custom Seekbar와 Progressbar의 비동기작업</br></br>
-								File System을 활용한 음악 저장 및 출력</p>
 
-							<h1><a href="https://github.com/tekken5953/Android_PoGeun/tree/master#readme"
-							target='_blank'>📌핵심코드 설명📌</h1>
-						</header>
-					</div>
-					<a href="#four-five" class="goto-next scrolly">Next</a>
-				</div>
-			</section>
+						<!-- Four-four -->
+						<section id="four-four" class="main special">
+							<div class="container">
+								<span class="image fit primary"></span>
+								<div class="content">
+									<header class="major">
+										<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+										<span class="image left"><img src="images/poguen.png" alt=""/></span>
+										<p> 음악 플레이어 App</br></br>
+											Firebase RealtimeDatabase를 이용한 Login Service</br></br>
+											Background Play Service</br></br>
+											MediaPlayer 함수를 이용해 뮤직플레이어 구현</br></br>
+											Custom Seekbar와 Progressbar의 비동기작업</br></br>
+											File System을 활용한 음악 저장 및 출력</p>
 
-			<!-- Four-five -->
-			<section id="four-five" class="main special">
-				<div class="container">
-					<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
-					<div class="content">
-						<header class="major">
-							<h2>제가 경험한 프로젝트를 소개합니다.</h2>
-							<span class="image left"><img src="images/farmers2.jpg" alt=""/></span>
-							<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
-								PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
-								Retrofit2를 이용한 클라이언트 구현</br></br>
-								액세스 토큰 형식의 로그인 서비스 구현</br></br>
-								로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
-						</p>
-						<h1><a href="https://github.com/tekken5953/Android_MarketAndroid/tree/master#readme"
-						target='_blank'>📌핵심코드 설명📌</h1>
-						</header>
-					</div>
-					<a href="#six" class="goto-next scrolly">Next</a>
-				</div>
-			</section>
+										<h1><a href="https://github.com/tekken5953/Android_PoGeun/tree/master#readme"
+										target='_blank'>📌핵심코드 설명📌</h1>
+									</header>
+								</div>
+								<a href="#four-five" class="goto-next scrolly">Next</a>
+							</div>
+						</section>
 
+						<!-- Four-five -->
+						<section id="four-five" class="main special">
+							<div class="container">
+								<span class="image fit primary"></span>
+								<div class="content">
+									<header class="major">
+									<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+									<span class="image left"><img src="images/farmers.png" alt=""/></span>
+									<p> 농부와 도매상을 연결 해 모바일 환경으로 수확물을 판매신청 및 확인 하는 App</br></br>
+											PieCharm과 AWS를 이용 해 RESTful 서버환경 구현</br></br>
+											Retrofit2를 이용한 클라이언트 구현</br></br>
+											액세스 토큰 형식의 로그인 서비스 구현</br></br>
+											로그인에 따라 관리자 페이지와 유저 페이지 분할 구현</br></br>
+									</p>
+									<h1><a href="https://github.com/tekken5953/Android_MarketAndroid/tree/master#readme"
+										target='_blank'>📌핵심코드 설명📌</h1>
+									</header>
+								</div>
+								<a href="#four-six" class="goto-next scrolly">Next</a>
+							</div>
+						</section>
+			
 						<!-- Four-six -->
 						<section id="four-six" class="main special">
 							<div class="container">
-								<span class="image fit primary"><img src="images/project2.jpg" alt="" /></span>
+								<span class="image fit primary"></span>
 								<div class="content">
 									<header class="major">
-										<h2>제가 진행중인 프로젝트를 소개합니다.</h2>
-										<span class="image left"><img src="images/snsapp2.jpg" alt=""/></span>
-										<p> 기본적인 로그인 서비스와 포스팅을 할 수 있는 App</br></br>
+									<h2>제가 경험한 프로젝트를 소개합니다.</h2>
+									<span class="image left"><img src="images/snsapp.png" alt=""/></span>
+									<p> 기본적인 로그인 서비스와 포스팅을 할 수 있는 App</br></br>
 											Glide로 이미지 캐시를 불러와 적용</br></br>
 											현재 위치정보 기반 태그 기능</br></br>
 											팔로우 및 좋아요, 댓글 기능</br></br>
@@ -252,7 +268,6 @@
 									target='_blank'>📌핵심코드 설명📌</h1>
 									</header>
 								</div>
-								<a href="#footer" class="goto-next scrolly">Next</a>
 							</div>
 						</section>
 
@@ -269,7 +284,7 @@
 							<div class="col-12"><textarea name="message" id="message" placeholder="Message" rows="4"></textarea></div>
 							<div class="col-12">
 								<ul class="actions special">
-									<li><input type="submit" value="Send Message" class="primary" /></li>
+									<li><input type="submit" value="Send Message" class="primary"/></li>
 								</ul>
 							</div>
 						</div>

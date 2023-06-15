@@ -2694,6 +2694,7 @@ input, select, textarea {
 		.button.primary {
 			background-color: #474aee;
 			border: 0;
+			border-radius: 10px;
 			box-shadow: none;
 			color: #ffffff !important;
 		}
